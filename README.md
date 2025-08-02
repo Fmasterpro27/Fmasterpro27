@@ -1,4 +1,4 @@
-# 👋 Hey! I'm Aniruddha (aka JackMa)
+# 👋 Hey! I'm JackMa
 
 I'm a 16-year-old developer who’s always learning and building cool stuff with code.  
 I’m not a pro (yet 😎), but I love experimenting with bots, AI models, games, and web projects.
