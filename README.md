@@ -16,7 +16,6 @@ I’m not a pro (yet 😎), but I love experimenting with bots, AI models, games
 
 ## 🚧 What I'm Working On
 
-- **Nexora** – A smart AI assistant that chats, generates images, and speaks
 - **ArkCore** - A multipurpose discord bot
 - **BlackFlight** – NSFW bot (for study purposes 🫣)
 - **Student Help Tools** – Bots and websites to help students with doubts, Q&A, and AI tutors
