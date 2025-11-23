@@ -1,49 +1,61 @@
-# 👋 Hey! I'm JackMa
+# JackMa — Full Stack Developer & AI Builder
 
-I'm a Full Stack developer who’s always learning and building cool stuff with code.  
-I’m not a pro (yet 😎), but I love experimenting with bots, AI models, games, and web projects.
-
----
-
-## 🌱 Currently Learning
-
-- 🤖 Discord & Telegram bot development
-- 🧠 AI tools like LLaMA 2, Stable Diffusion, Bark, Mistral, and DeepSeek
-- 🎮 Game development with Roblox
-- 🌐 Web development (HTML, CSS, JS, and a bit of React)
+I’m a self-taught developer passionate about building scalable software, intelligent systems, and creative digital experiences.  
+I enjoy working with automation, bot systems, AI models, and game development—constantly learning through real projects.
 
 ---
 
-## 🚧 What I'm Working On
+## Currently Exploring
 
-- **ArkCore** - A multipurpose discord bot
-- **BlackFlight** – NSFW bot (for study purposes 🫣)
-- **Student Help Tools** – Bots and websites to help students with doubts, Q&A, and AI tutors
-
----
-
-## 🧰 My Toolbox
-
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Discord.py](https://img.shields.io/badge/-discord.py-333?style=flat&logo=discord)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
-![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-333?style=flat&logo=openai)
-![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+- Discord & Telegram bot development
+- AI & ML tools: LLaMA 2, Stable Diffusion, Bark, Mistral, DeepSeek, Granite
+- Roblox Game Development
+- Rust & modern system programming
+- Kubernetes (k8s) & Docker
+- Web development: HTML, CSS, JavaScript, React
 
 ---
 
-## 🧪 A Reminder to Everyone (including me)
+## Active Projects
 
-> I'm still learning. I make mistakes. I break things. But every day, I build better than yesterday.  
+| Project | Description |
+|---------|------------|
+| **ArkCore** | Multipurpose Discord bot with automation, security, monitoring and AI integration |
+| **ChatNest** | Smart conversational Discord chatbot supporting continuous multi-message interaction |
+| **Global CDN** | High-speed content delivery and file hosting system for AI media services |
+| **Image Datasets** | Curated high-quality datasets for AI training, image generation, and research |
+
 
 ---
 
-## 💻 GitHub Stats
+## Tech Stack & Tools
+
+### Programming & Frameworks
+Python • JavaScript • Node.js • Rust • HTML • CSS • React • Discord.py
+
+### AI & ML
+Stable Diffusion • LLaMA • Bark TTS • Mistral • DeepSeek
+
+### DevOps & Databases
+Docker • Kubernetes • SQL • PostgreSQL • GitHub • Cloud Deployments
+
+---
+
+## Philosophy
+
+> Always learning. Always improving. Building better than yesterday.
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=F-Master&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=F-Master&theme=tokyonight" />
 </p>
+
+---
+
+### Contact
+
+Interested in collaboration or innovative projects? Let’s connect.
