@@ -1,18 +1,17 @@
-# JackMa — Full Stack Developer & AI Builder
+# JackMa — Backend Developer & AI Builder
 
-I’m a self-taught developer passionate about building scalable software, intelligent systems, and creative digital experiences.  
-I enjoy working with automation, bot systems, AI models, and game development—constantly learning through real projects.
+I’m a self-taught backend engineer and AI developer focused on building scalable systems, automation tools, and intelligent applications.  
+I work with cloud infrastructure, container orchestration, real-time systems, and advanced machine learning tools to create high-performance solutions.
 
 ---
 
-## Currently Exploring
+## Currently Working On
 
-- Discord & Telegram bot development
-- AI & ML tools: LLaMA 2, Stable Diffusion, Bark, Mistral, DeepSeek, Granite
-- Roblox Game Development
-- Rust & modern system programming
-- Kubernetes (k8s) & Docker
-- Web development: HTML, CSS, JavaScript, React
+- Backend architecture & API development
+- AI systems: training, fine-tuning, and deployment
+- Advanced Discord bot frameworks
+- Global content delivery systems
+- Image dataset creation for AI research
 
 ---
 
@@ -20,30 +19,30 @@ I enjoy working with automation, bot systems, AI models, and game development—
 
 | Project | Description |
 |---------|------------|
-| **ArkCore** | Multipurpose Discord bot with automation, security, monitoring and AI integration |
-| **ChatNest** | Smart conversational Discord chatbot supporting continuous multi-message interaction |
-| **Global CDN** | High-speed content delivery and file hosting system for AI media services |
-| **Image Datasets** | Curated high-quality datasets for AI training, image generation, and research |
-
+| **ArkCore** | Multipurpose Discord bot with automation, security, monitoring, and AI integration |
+| **ChatNest** | AI-powered Discord chatbot with multi-message conversation flow |
+| **Global CDN** | High-speed distributed content delivery platform for AI media handling |
+| **Image Datasets** | Curated dataset collections for AI training & generative models |
 
 ---
 
 ## Tech Stack & Tools
 
-### Programming & Frameworks
-Python • JavaScript • Node.js • Rust • React • Discord.py & more
+### Backend & Systems
+Python • Node.js • Rust • Discord.py • REST APIs • WebSockets
 
-### AI & ML
-Stable Diffusion • LLaMA • Bark TTS • Mistral • DeepSeek & more
+### AI & Machine Learning
+Stable Diffusion • LLaMA • Mistral • Bark TTS • DeepSeek • Custom LoRA Training
 
-### DevOps & Databases
-Docker • Kubernetes • SQL • PostgreSQL • GitHub • Cloud Deployments
+### DevOps & Infrastructure
+Docker • Kubernetes (k8s) • SQL • PostgreSQL • Cloud Deployments • GitHub CI/CD
 
 ---
 
-## Philosophy
+## Core Philosophy
 
-> Always learning. Always improving. Building better than yesterday.
+> Build → Break → Learn → Improve  
+> Progress matters more than perfection.
 
 ---
 
@@ -53,4 +52,9 @@ Docker • Kubernetes • SQL • PostgreSQL • GitHub • Cloud Deployments
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=F-Master&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=F-Master&theme=tokyonight" />
 </p>
+
+---
+
+### Contact
+Open to collaboration, research projects, and large-scale backend/AI architecture.
 
