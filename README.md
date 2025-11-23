@@ -31,10 +31,10 @@ I enjoy working with automation, bot systems, AI models, and game development—
 ## Tech Stack & Tools
 
 ### Programming & Frameworks
-Python • JavaScript • Node.js • Rust • HTML • CSS • React • Discord.py
+Python • JavaScript • Node.js • Rust • React • Discord.py & more
 
 ### AI & ML
-Stable Diffusion • LLaMA • Bark TTS • Mistral • DeepSeek
+Stable Diffusion • LLaMA • Bark TTS • Mistral • DeepSeek & more
 
 ### DevOps & Databases
 Docker • Kubernetes • SQL • PostgreSQL • GitHub • Cloud Deployments
@@ -54,8 +54,3 @@ Docker • Kubernetes • SQL • PostgreSQL • GitHub • Cloud Deployments
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=F-Master&theme=tokyonight" />
 </p>
 
----
-
-### Contact
-
-Interested in collaboration or innovative projects? Let’s connect.
