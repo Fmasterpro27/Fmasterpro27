@@ -1,6 +1,5 @@
 # JackMa — Backend Developer & AI Builder
 
-[![Discord Status](https://dcbadge.vercel.app/api/shield/1233097923366227980)](https://discordapp.com/users/1233097923366227980)
 
 I’m a self-taught backend engineer and AI developer focused on building scalable systems, automation tools, and intelligent applications.  
 I work with cloud infrastructure, container orchestration, real-time systems, and advanced machine learning tools to create high-performance solutions.
